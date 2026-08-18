@@ -8,7 +8,7 @@ import data1 from "../data/Data1.json";
 import data2 from "../data/Data2.json";
 import data3 from "../data/Data3.json";
 import data4 from "../data/Data4.json";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import Footer from "./Fooer";
 
 const Course = () => {

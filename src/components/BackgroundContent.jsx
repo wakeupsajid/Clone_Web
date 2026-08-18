@@ -11,7 +11,7 @@ import { FiCheckCircle } from "react-icons/fi";
 import { CiMemoPad } from "react-icons/ci";
 import { FaArrowTrendUp } from "react-icons/fa6";
 import Footer from "./Fooer";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
 
 const BackgroundContent = () => {

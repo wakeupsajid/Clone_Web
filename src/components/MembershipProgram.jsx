@@ -7,7 +7,7 @@ import { MdPersonOutline } from "react-icons/md";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { Link } from "react-router-dom";
 // import Footer from "./Fooer";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 const MemberShip = () => {
   return (

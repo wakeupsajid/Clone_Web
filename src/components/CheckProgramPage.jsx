@@ -1,5 +1,5 @@
 import Footer from "./Fooer";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
 
 const Check = () => {
