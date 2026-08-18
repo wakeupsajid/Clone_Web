@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "category": "Health Policy & Management",
+  "totalCourses": 5,
+  "courses": [
+    {
+      "id": 1,
+      "code": "COM 841",
+      "title": "Principles of Health Management",
+      "status": "Not Attempted",
+      "description": "Definitions, concepts and components in HM, health planning cycle, implementation and evaluatio.",
+      "modules": 3
+    },
+    {
+      "id": 2,
+      "code": "COM 842",
+      "title": "Human & material resources",
+      "status": "Not Attempted",
+      "description": "Human resource development and management, management of material resources.",
+      "modules": 2
+    },
+    {
+      "id": 3,
+      "code": "COM 843",
+      "title": "Health Economics",
+      "status": "Not Attempted",
+      "description": "Principle of health economics and healthcare financing.",
+      "modules": 2
+    },
+    {
+      "id": 4,
+      "code": "COM 844",
+      "title": "Principles of Health Policy",
+      "status": "Not Attempted",
+      "description": "Definitions, concepts and components of health policy; national health policies in West African countries.",
+      "modules": 2
+    },
+    {
+      "id": 5,
+      "code": "COM 845",
+      "title": "Pogrammetic tools/ srategies",
+      "status": "Not Attempted",
+      "description": "Planning tools and healthcare budgeting.",
+      "modules": 1
+    }
+  ]
+}

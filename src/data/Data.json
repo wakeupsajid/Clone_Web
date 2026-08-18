@@ -1,0 +1,79 @@
+ {
+  "id": 1,
+  "category": "Epidemiology & Biostatistics",
+  "totalCourses": 9,
+  "courses": [
+    {
+      "id": 1,
+      "code": "COM 811",
+      "title": "Principles of Epidemiology",
+      "status": "Not Attempted",
+      "description": "History, definition, scope and methods of epidemiology.",
+      "modules": 5
+    },
+    {
+      "id": 2,
+      "code": "COM 812",
+      "title": "Epid of Communicable Diseases",
+      "status": "Not Attempted",
+      "description": "Outbreaks, immunology, microbiology, NTDs, surveillance and emerging diseases.",
+      "modules": 10
+    },
+    {
+      "id": 3,
+      "code": "COM 813",
+      "title": "Epidemiology of NCDs",
+      "status": "Not Attempted",
+      "description": "Epidemiological basis of NCD causation and genetic aspects of preventive medicine.",
+      "modules": 2
+    },
+    {
+      "id": 4,
+      "code": "COM 814",
+      "title": "Disease Control/M&E",
+      "status": "Not Attempted",
+      "description": "International health, travel medicine, IHR and national disease control programmes.",
+      "modules": 3
+    },
+    {
+      "id": 5,
+      "code": "COM 815",
+      "title": "Research Methodology",
+      "status": "Not Attempted",
+      "description": "Sampling, study designs, data analysis, quantitative/qualitative packages and AI in research.",
+      "modules": 4
+    },
+    {
+      "id": 6,
+      "code": "COM 816",
+      "title": "Basic Medical Statistics",
+      "status": "Not Attempted",
+      "description": "Basic statistical principles for health research.",
+      "modules": 1
+    },
+    {
+      "id": 7,
+      "code": "COM 817",
+      "title": "Health Information Systems",
+      "status": "Not Attempted",
+      "description": "Health data management, reporting and information systems.",
+      "modules": 6
+    },
+    {
+      "id": 8,
+      "code": "COM 818",
+      "title": "Advanced Epidemiology",
+      "status": "Not Attempted",
+      "description": "Advanced epidemiological methods and applications.",
+      "modules": 5
+    },
+    {
+      "id": 9,
+      "code": "COM 819",
+      "title": "Public Health Practice",
+      "status": "Not Attempted",
+      "description": "Principles and practices in modern public health.",
+      "modules": 3
+    }
+  ]
+}

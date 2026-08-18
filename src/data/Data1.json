@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "category": "Primary Health Care",
+  "totalCourses": 5,
+  "courses": [
+    {
+      "id": 1,
+      "code": "COM 821",
+      "title": "MOH Posting",
+      "status": "Not Attempted",
+      "description": "PHC systems, disease survillence and notification.",
+      "modules": 2
+    },
+    {
+      "id": 2,
+      "code": "COM 822",
+      "title": "Rural Posting",
+      "status": "Not Attempted",
+      "description": "Rural health posting experiene.",
+      "modules": 1
+    },
+    {
+      "id": 3,
+      "code": "COM 823",
+      "title": "Urban Health Posting",
+      "status": "Not Attempted",
+      "description": "Urba health, community mental health and community dental health.",
+      "modules": 3
+    },
+    {
+      "id": 4,
+      "code": "COM 824",
+      "title": "Therapeutics",
+      "status": "Not Attempted",
+      "description": "Therapeutics in primary case.",
+      "modules": 1
+    },
+    {
+      "id": 5,
+      "code": "COM 825",
+      "title": "Public Health Nutrition",
+      "status": "Not Attempted",
+      "description": "Scientific basis of nutrition, food systems, behavioural aspects, meternal and child nutrition, food as medicine.",
+      "modules": 5
+    }
+  ]
+}

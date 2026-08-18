@@ -1,0 +1,55 @@
+ {
+  "id": 1,
+  "category": "Occupational Health",
+  "totalCourses": 6,
+  "courses": [
+    {
+      "id": 1,
+      "code": "COM 851",
+      "title": "Principles of Occupational Health",
+      "status": "Not Attempted",
+      "description": "Definitions and conceepts of occupational health.",
+      "modules": 1
+    },
+    {
+      "id": 2,
+      "code": "COM 852",
+      "title": "Hazzards in Occupational Health ",
+      "status": "Not Attempted",
+      "description": "Classification, prevention and control of hazards.",
+      "modules": 1
+    },
+    {
+      "id": 3,
+      "code": "COM 853",
+      "title": "Communicable Diseases of Occupational Health",
+      "status": "Not Attempted",
+      "description": "Communicable diseases in occupational settings.",
+      "modules": 1
+    },
+    {
+      "id": 4,
+      "code": "COM 854",
+      "title": "Non-Communicable Diseases of Occupational Health",
+      "status": "Not Attempted",
+      "description": "Non-Communicable Diseases of OH and occupational cancers.",
+      "modules": 1
+    },
+    {
+      "id": 5,
+      "code": "COM 855",
+      "title": "Prevention & control of OH problems/ occupational hygiene",
+      "status": "Not Attempted",
+      "description": "Prevention and control of OH problem, occupational hygiene.",
+      "modules": 2
+    },
+    {
+      "id": 6,
+      "code": "COM 856",
+      "title": "Cross cutting issues in OH",
+      "status": "Not Attempted",
+      "description": "Special issues in OH, occupational toxicolgy and pathology.",
+      "modules": 1
+    }
+  ]
+}

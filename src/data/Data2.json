@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "category": "Reproductive & Family Health",
+  "totalCourses": 3,
+  "courses": [
+    {
+      "id": 1,
+      "code": "COM 831",
+      "title": "Principal of RFH",
+      "status": "Not Attempted",
+      "description": "Definitions, concepts, components, and indicators of RH; meternal health and meternal emergency care.",
+      "modules": 2
+    },
+    {
+      "id": 2,
+      "code": "COM 832",
+      "title": "Child & Adolescent Health ",
+      "status": "Not Attempted",
+      "description": "Childhood survival strategie and principles and concepts in adolescent health.",
+      "modules": 2
+    },
+    {
+      "id": 3,
+      "code": "COM 833",
+      "title": "Cross-cutting issus in RH",
+      "status": "Not Attempted",
+      "description": "School health and harmful practices,  ageing and gender, STIs and reroductive tract cancer, global RFH programme.",
+      "modules": 5
+    }
+   
+  ]
+}
