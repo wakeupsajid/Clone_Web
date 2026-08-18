@@ -24,7 +24,7 @@ const Create = () => {
     try {
 
       const response = await axios.post(
-        "https://sage-parking-weekly-reason.trycloudflare.com/api/auth/register",
+        "http://localhost:5000/api/auth/register",
         {
           fullname,
           email,
