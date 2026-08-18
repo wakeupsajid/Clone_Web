@@ -3,7 +3,7 @@ import useTheme from "./components/useTheme";
 import Home from "./components/HomePage";
 import BackgroundPage from "./components/BackgroundPage";
 import Check from "./components/CheckProgramPage";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Selection from "./components/SelectionPage";
 import Login from "./components/LoginPage";
 import Create from "./components/CreatePage";
