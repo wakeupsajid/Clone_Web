@@ -4,7 +4,7 @@ import { FiBookOpen } from "react-icons/fi";
 import { FaGraduationCap } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 import Footer from "./Fooer";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 const Selection = () => {
   return (
